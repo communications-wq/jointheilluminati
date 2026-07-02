@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 250">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f9d15c"/>
+      <stop offset="100%" stop-color="#c08f20"/>
+    </linearGradient>
+  </defs>
+  <rect width="250" height="250" rx="32" fill="#940f24"/>
+  <circle cx="125" cy="125" r="92" fill="none" stroke="url(#gold)" stroke-width="18"/>
+  <polygon points="125,50 75,175 175,175" fill="url(#gold)"/>
+  <path d="M125 90 L135 115 L121 132 L129 154 L125 147 L121 154 L129 132 L115 115 Z" fill="#940f24"/>
+  <circle cx="125" cy="118" r="12" fill="#940f24"/>
+  <rect x="80" y="176" width="90" height="18" fill="url(#gold)" rx="9"/>
+</svg>
